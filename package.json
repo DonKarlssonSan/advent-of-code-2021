@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "My solutions to https://adventofcode.com/2021",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha **/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonKarlssonSan/advent-of-code-2021.git"
+  },
+  "author": "Johan Karlsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DonKarlssonSan/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/DonKarlssonSan/advent-of-code-2021#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  }
+}
